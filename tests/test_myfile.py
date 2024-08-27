@@ -1,5 +1,5 @@
-def Test_A():
+def test_A():
     assert True
 
-def Test_B():
+def test_B():
     assert False
